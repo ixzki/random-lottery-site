@@ -21,7 +21,7 @@
 
 1.  **克隆项目**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/random-lottery-site.git
+    git clone https://github.com/ixzki/random-lottery-site.git
     cd random-lottery-site
     ```
 
@@ -56,7 +56,7 @@
     git add .
     git commit -m "Initial commit"
     git branch -M main
-    git remote add origin https://github.com/YOUR_USERNAME/random-lottery-site.git
+    git remote add origin https://github.com/ixzki/random-lottery-site.git
     git push -u origin main
     ```
 
@@ -64,7 +64,7 @@
 
 点击下方按钮，将自动克隆您的 GitHub 仓库并部署到 Vercel：
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FYOUR_USERNAME%2Frandom-lottery-site)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fixzki%2Frandom-lottery-site)
 
 **注意：** 点击按钮后，Vercel 会要求您授权 GitHub 访问权限，然后自动识别 Vite 项目配置，无需手动修改任何设置即可完成部署。
 
